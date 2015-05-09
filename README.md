@@ -6,4 +6,4 @@ such as "Dwscdv3.Scanner" / "Dwscdv3.Data.TextDB",
 they're incomplete, and I won't complete them anymore. 
 
 Some projects are really useful,  
-you can find the compiled DLL file in path "DwLib/bin". 
+you can find the compiled DLL file in path "/bin". 
