@@ -1,0 +1,9 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Encoding\bin\Release\Dwscdv3.Encoding.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Encoding\bin\Release\Dwscdv3.Encoding.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Encoding\obj\Release\Dwscdv3.Encoding.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Encoding\obj\Release\Dwscdv3.Encoding.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Encoding.XML
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Encoding.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Encoding.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Encoding.dll.CodeAnalysisLog.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Encoding.dll.lastcodeanalysissucceeded

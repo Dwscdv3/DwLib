@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="d:\program files\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.DataType.dll">
+   <Modules>
+    <Module Name="dwscdv3.datatype.dll">
+     <Namespaces>
+      <Namespace Name="Dwscdv3.DataType">
+       <Types>
+        <Type Name="ByteBits" Kind="Struct" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Item[System.Byte]" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#get_Item(System.Byte)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2014-12-02 11:21:50Z" FixCategory="Breaking">
+               <Issue Name="PropertyGetter" Certainty="90" Level="Warning" Path="d:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType" File="ByteBits.cs" Line="84">'ByteBits.this.get(byte)' 创建 'IndexOutOfRangeException' 类型的异常，该异常类型不应当在属性中引发。如果有可能会引发此异常实例，请使用其他异常类型，将该属性转换为方法，或者更改该属性的逻辑，使它不再引发异常。</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Fraction" Kind="Struct" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Equals(System.Object)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2014-12-02 11:21:50Z" FixCategory="Breaking">
+             <Issue Name="NoAllowedExceptions" Certainty="90" Level="Error" Path="d:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType" File="Fraction.cs" Line="69">'Fraction.Equals(object)' 创建 'ArgumentException' 类型的异常，该异常类型不应当在这种类型的方法中引发。如果有可能会引发此异常实例，请更改该方法的逻辑，使它不再引发异常。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065">
+   <Name>不要在意外的位置引发异常</Name>
+   <Description>不要从意外的位置显式引发异常。用户不希望某些方法(如 Equals 和 GetHashCode)引发异常。因此，对这些方法的调用通常不包装在 try catch 块中。</Description>
+   <Resolution Name="NoAllowedExceptions">{0} 创建 {1} 类型的异常，该异常类型不应当在这种类型的方法中引发。如果有可能会引发此异常实例，请更改该方法的逻辑，使它不再引发异常。</Resolution>
+   <Resolution Name="PropertyGetter">{0} 创建 {1} 类型的异常，该异常类型不应当在属性中引发。如果有可能会引发此异常实例，请使用其他异常类型，将该属性转换为方法，或者更改该属性的逻辑，使它不再引发异常。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb386039(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error, Warning</MessageLevel>
+   <File Name="designrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">类别</String>
+  <String Key="Certainty">确定性</String>
+  <String Key="CollapseAll">全部折叠</String>
+  <String Key="CheckId">检查 ID</String>
+  <String Key="Error">错误</String>
+  <String Key="Errors">错误</String>
+  <String Key="ExpandAll">全部展开</String>
+  <String Key="Help">帮助</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">消息</String>
+  <String Key="LocationNotStoredInPdb">[位置未存储在 Pdb 中]</String>
+  <String Key="Project">项目</String>
+  <String Key="Resolution">解析</String>
+  <String Key="Rule">规则</String>
+  <String Key="RuleFile">规则文件</String>
+  <String Key="RuleDescription">规则说明</String>
+  <String Key="Source">源</String>
+  <String Key="Status">状态</String>
+  <String Key="Target">目标</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">代码分析报告</String>
+ </Localized>
+</FxCopReport>

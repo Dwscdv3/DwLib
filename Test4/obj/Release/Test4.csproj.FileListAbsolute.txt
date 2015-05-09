@@ -1,0 +1,9 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\bin\Release\Test4.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\bin\Release\Test4.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\bin\Release\Dwscdv3.Timers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\bin\Release\Dwscdv3.Timers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\obj\Release\Test4.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\obj\Release\Test4.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\obj\Release\Test4.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\bin\Release\Test4.exe.config
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test4\bin\Release\Dwscdv3.Timers.xml

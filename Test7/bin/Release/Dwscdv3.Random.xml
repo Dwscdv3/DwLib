@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Random</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.Random.NoRepeatRandom.#ctor(System.Int32)">
+            <summary>
+            使用与时间相关的默认种子值，初始化 Dwscdv3.Math.NoRepeatRandom 类的新实例。
+            </summary>
+            <param name="Amount">生成的不重复随机数的数量。默认下界为0。</param>
+        </member>
+        <member name="M:Dwscdv3.Random.NoRepeatRandom.#ctor(System.Int32,System.Int32)">
+            <summary>
+            使用与时间相关的默认种子值，初始化 Dwscdv3.Math.NoRepeatRandom 类的新实例。
+            </summary>
+            <param name="Min">生成的不重复随机数的下界（随机数可取该下界值）。</param>
+            <param name="Max">生成的不重复随机数的上界（随机数不可取该上界值）。</param>
+        </member>
+        <member name="M:Dwscdv3.Random.NoRepeatRandom.Next">
+            <summary>
+            返回一个未出现过的随机数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Dwscdv3.Random.NoRepeatRandom.Total">
+            <summary>
+            获取该随机数序列的总数量。
+            </summary>
+        </member>
+        <member name="P:Dwscdv3.Random.NoRepeatRandom.Left">
+            <summary>
+            获取该随机数序列中剩余的数量。
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41B9F427-6110-4EA0-A514-E29E55811D4E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test6</RootNamespace>
+    <AssemblyName>Test6</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DwLib\Dwscdv3.Random.csproj">
+      <Project>{a16b3b98-c36b-4fcb-9300-38ac010529fa}</Project>
+      <Name>Dwscdv3.Random</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.Collections\Dwscdv3.Collections.csproj">
+      <Project>{eb10c08b-17a3-4de0-af09-4e3e3851de3e}</Project>
+      <Name>Dwscdv3.Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.Console\Dwscdv3.Console.csproj">
+      <Project>{18ac8765-d503-4076-a0a9-c9ca3f6181df}</Project>
+      <Name>Dwscdv3.Console</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.Cryptography\Dwscdv3.Cryptography.csproj">
+      <Project>{19b10f77-1488-4509-814f-5134b717bbba}</Project>
+      <Name>Dwscdv3.Cryptography</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.DataType\Dwscdv3.DataType.csproj">
+      <Project>{bbed9232-e361-4169-a561-812e576932cc}</Project>
+      <Name>Dwscdv3.DataType</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.Encoding\Dwscdv3.Encoding.csproj">
+      <Project>{e49512c4-8c6f-484e-8ece-1d786716fbd5}</Project>
+      <Name>Dwscdv3.Encoding</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.ExtensionMethod\Dwscdv3.ExtensionMethod.csproj">
+      <Project>{1f41c179-fd59-4ba2-8b92-48071c8c3d8b}</Project>
+      <Name>Dwscdv3.ExtensionMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3.Timers\Dwscdv3.Timers.csproj">
+      <Project>{55e0e35c-edd6-452f-bd61-0bf5b678aef7}</Project>
+      <Name>Dwscdv3.Timers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dwscdv3\Dwscdv3.csproj">
+      <Project>{ca128a43-23fc-4196-999e-5cfe74eadd30}</Project>
+      <Name>Dwscdv3</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

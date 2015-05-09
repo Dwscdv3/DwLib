@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3</name>
+    </assembly>
+    <members>
+        <member name="T:Dwscdv3.Batch">
+            <summary>
+            包含批处理相关的静态方法的类。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.BatchBuilder.#ctor(System.Boolean)">
+            <param name="echo">回显开关。</param>
+        </member>
+        <member name="M:Dwscdv3.BatchBuilder.TempRun">
+            <summary>
+            在临时文件夹中运行此脚本，运行后自动删除。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.JustForFun.InfinityLoop">
+            <summary>
+            使当前线程进入死循环。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.JustForFun.CPUKiller">
+            <summary>
+            使CPU使用率达到100%。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.JustForFun.Shutdown(System.Int32)">
+            <summary>
+            关闭计算机。
+            </summary>
+            <param name="countDown">关机前的倒计时，单位：秒。</param>
+        </member>
+        <member name="M:Dwscdv3.JustForFun.Restart(System.Int32)">
+            <summary>
+            重新启动计算机。
+            </summary>
+            <param name="countDown">重启前的倒计时，单位：秒。</param>
+        </member>
+        <member name="M:Dwscdv3.Math.Fact(System.Int64)">
+            <summary>
+            返回指定自然数的阶乘。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Math.Lcm(System.Int64,System.Int64)">
+            <summary>
+            返回两个整数的最小公倍数。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Math.Gcd(System.Int64,System.Int64)">
+            <summary>
+            返回两个整数的最大公约数。
+            </summary>
+        </member>
+    </members>
+</doc>

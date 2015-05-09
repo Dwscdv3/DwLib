@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Encoding</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.Encoding.CharacterReplace.ROT13(System.String)">
+            <summary>
+            将字符串用ROT13编码或还原。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Encoding.CharacterReplace.ROT13(System.Byte[])">
+            <summary>
+            将字节数组用ROT13编码或还原。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Encoding.CharacterReplace.CharType(System.Char)">
+            <summary>
+            <para>1 - 大写字母前半</para>
+            <para>2 - 大写字母后半</para>
+            <para>3 - 小写字母前半</para>
+            <para>4 - 小写字母后半</para>
+            <para>5 - 数字</para>
+            <para>6 - 其它</para>
+            </summary>
+            <param name="c"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dwscdv3.Encoding.CharacterReplace.Reverse(System.Byte[])">
+            <summary>
+            将字节数组内每个字节值反转。<para>用255减之。</para>
+            </summary>
+        </member>
+    </members>
+</doc>

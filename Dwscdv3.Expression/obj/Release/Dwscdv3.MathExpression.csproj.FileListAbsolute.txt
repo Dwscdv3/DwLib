@@ -1,0 +1,6 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.MathExpression.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.MathExpression.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.MathExpression.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Compute\obj\Release\Dwscdv3.MathExpression.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Compute\obj\Release\Dwscdv3.MathExpression.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Compute\obj\Release\Dwscdv3.MathExpression.csprojResolveAssemblyReference.cache

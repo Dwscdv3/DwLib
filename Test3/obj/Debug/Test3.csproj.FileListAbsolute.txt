@@ -1,0 +1,9 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\bin\Debug\Test3.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\bin\Debug\Test3.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\obj\Debug\Test3.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\obj\Debug\Test3.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\obj\Debug\Test3.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\bin\Debug\Dwscdv3.DataType.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\bin\Debug\Dwscdv3.DataType.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\bin\Debug\Dwscdv3.ExtensionMethod.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test3\bin\Debug\Dwscdv3.ExtensionMethod.pdb

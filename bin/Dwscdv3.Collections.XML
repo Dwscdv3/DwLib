@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Collections</name>
+    </assembly>
+    <members>
+        <member name="T:Dwscdv3.Collections.Sort">
+            <summary>
+            与排序相关的静态方法。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.InsertionSort(System.Int32[])">
+            <summary>
+            插入排序。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.InsertionSort(System.Int64[])">
+            <summary>
+            插入排序。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.SelectionSort(System.Int32[])">
+            <summary>
+            选择排序。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.SelectionSort(System.Int64[])">
+            <summary>
+            选择排序。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.BubbleSort(System.Int32[])">
+            <summary>
+            改进的冒泡排序。<para>此版本对于基本有序的序列效率较高。</para>
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.OriginalBubbleSort(System.Int32[])">
+            <summary>
+            最原始的冒泡排序。<para>此版本对于完全随机的序列效率较高。</para>
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.BubbleSort(System.Int64[])">
+            <summary>
+            改进的冒泡排序。<para>此版本对于基本有序的序列效率较高。</para>
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.OriginalBubbleSort(System.Int64[])">
+            <summary>
+            最原始的冒泡排序。<para>此版本对于完全随机的序列效率较高。</para>
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.BeadSort(System.Int32[])">
+            <summary>
+            珠排序。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.BogoSort(System.Int32[])">
+            <summary>
+            Bogo排序：将一组数字随机打乱，并检查是否有序。若否，则重新打乱，直到有序为止。
+            <para>警告：此排序算法纯属恶搞，请勿用于正常项目！</para>
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.BozoSort(System.Int32[])">
+            <summary>
+            Bozo排序：交换任意两个数的位置，并检查是否有序。若否，则再次交换任意两个数的位置，直到有序为止。
+            <para>Bogo排序的改进版。</para>
+            <para>警告：此排序算法纯属恶搞，请勿用于正常项目！</para>
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.IsOrdered(System.Int32[])">
+            <summary>
+            检查指定的数组是否有序。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Collections.Sort.IsOrdered(System.Int64[])">
+            <summary>
+            检查指定的数组是否有序。
+            </summary>
+        </member>
+    </members>
+</doc>

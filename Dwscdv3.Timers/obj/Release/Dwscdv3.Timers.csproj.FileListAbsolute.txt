@@ -1,0 +1,9 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Timers\bin\Release\Dwscdv3.Timers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Timers\bin\Release\Dwscdv3.Timers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Timers\obj\Release\Dwscdv3.Timers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Timers\obj\Release\Dwscdv3.Timers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Timers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Timers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Timers.XML
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Timers.dll.CodeAnalysisLog.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Timers.dll.lastcodeanalysissucceeded

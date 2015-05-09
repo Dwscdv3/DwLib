@@ -1,0 +1,5 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\obj\Debug\Dwscdv3.DataType.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\bin\Debug\Dwscdv3.DataType.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\bin\Debug\Dwscdv3.DataType.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\obj\Debug\Dwscdv3.DataType.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\obj\Debug\Dwscdv3.DataType.pdb

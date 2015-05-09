@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Compute</name>
+    </assembly>
+    <members>
+        <member name="T:Dwscdv3.Compute.SimpleExpression">
+            <summary>
+            简单的数学表达式。支持四则运算、幂运算和括号。
+            </summary>
+        </member>
+        <member name="T:Dwscdv3.Compute.NoBracketExpression">
+            <summary>
+            无括号的数学表达式。支持四则运算和幂运算。<para>注意：本类的设计初衷是简化代码。不过如果您的表达式没有括号的话使用该类可以提高性能。</para>
+            </summary>
+        </member>
+    </members>
+</doc>

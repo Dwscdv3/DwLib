@@ -1,0 +1,8 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\bin\Release\TestGeometry.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\bin\Release\TestGeometry.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\bin\Release\Dwscdv3.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\bin\Release\Dwscdv3.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\bin\Release\Dwscdv3.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\obj\Release\TestGeometry.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\obj\Release\TestGeometry.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestGeometry\obj\Release\TestGeometry.pdb

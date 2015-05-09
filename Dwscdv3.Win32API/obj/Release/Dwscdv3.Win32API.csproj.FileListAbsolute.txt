@@ -1,0 +1,6 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Win32API\obj\Release\Dwscdv3.Win32API.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Win32API.XML
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Win32API.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.Win32API.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Win32API\obj\Release\Dwscdv3.Win32API.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Win32API\obj\Release\Dwscdv3.Win32API.pdb

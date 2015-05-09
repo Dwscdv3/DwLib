@@ -1,0 +1,8 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\bin\Release\Test_泛型.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\bin\Release\Test_泛型.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\bin\Release\Dwscdv3.Collections.Generic.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\bin\Release\Dwscdv3.Collections.Generic.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\bin\Release\Dwscdv3.Collections.Generic.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\obj\Release\Test_泛型.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\obj\Release\Test_泛型.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test_泛型\obj\Release\Test_泛型.pdb

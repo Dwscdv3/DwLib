@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Win32API</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.Win32API.User32.mouse_event(Dwscdv3.Win32API.MouseFlags,System.Int32,System.Int32,System.Int32,System.UInt32)">
+            <summary>
+            模拟鼠标动作。
+            </summary>
+            <param name="dx">Flag: Absolute</param>
+            <param name="dy">Flag: Absolute</param>
+            <param name="dwData">Flag: Wheel, HWheel, XDown, XUp</param>
+        </member>
+        <member name="M:Dwscdv3.Win32API.User32.Cursor.GetCursorPos(System.Drawing.Point@)">
+            <summary>
+            获取鼠标指针位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Win32API.User32.Cursor.SetCursorPos(System.Int32,System.Int32)">
+            <summary>
+            设置鼠标指针位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Win32API.User32.Cursor.ClipCursor(Dwscdv3.Win32API.User32.RECT@)">
+            <summary>
+            限制鼠标指针的活动范围。
+            </summary>
+        </member>
+    </members>
+</doc>

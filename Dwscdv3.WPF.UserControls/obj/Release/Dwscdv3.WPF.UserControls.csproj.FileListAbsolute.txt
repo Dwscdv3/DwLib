@@ -1,0 +1,11 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\CircularProgress.baml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\CircularProgress.g.cs
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls_MarkupCompile.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls.g.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls.Properties.Resources.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls.csproj.GenerateResource.Cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\bin\Release\Dwscdv3.WPF.UserControls.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\bin\Release\Dwscdv3.WPF.UserControls.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.WPF.UserControls\obj\Release\Dwscdv3.WPF.UserControls.pdb

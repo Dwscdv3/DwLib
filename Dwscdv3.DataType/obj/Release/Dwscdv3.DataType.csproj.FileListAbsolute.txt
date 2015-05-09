@@ -1,0 +1,10 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\bin\Release\Dwscdv3.DataType.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\bin\Release\Dwscdv3.DataType.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\obj\Release\Dwscdv3.DataType.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\obj\Release\Dwscdv3.DataType.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DataType\obj\Release\Dwscdv3.DataType.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.DataType.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.DataType.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.DataType.XML
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.DataType.dll.CodeAnalysisLog.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.DataType.dll.lastcodeanalysissucceeded

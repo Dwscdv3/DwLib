@@ -1,0 +1,5 @@
+d:\users\pc\documents\visual studio 2012\Projects\DwLib\DwLib\obj\Debug\DwLib.csprojResolveAssemblyReference.cache
+d:\users\pc\documents\visual studio 2012\Projects\DwLib\DwLib\bin\Debug\Dwscdv3.Math.dll
+d:\users\pc\documents\visual studio 2012\Projects\DwLib\DwLib\bin\Debug\Dwscdv3.Math.pdb
+d:\users\pc\documents\visual studio 2012\Projects\DwLib\DwLib\obj\Debug\Dwscdv3.Math.dll
+d:\users\pc\documents\visual studio 2012\Projects\DwLib\DwLib\obj\Debug\Dwscdv3.Math.pdb

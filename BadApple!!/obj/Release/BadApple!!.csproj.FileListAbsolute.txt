@@ -1,0 +1,13 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\BadApple!!.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\BadApple!!.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Bass.Net.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Dwscdv3.Console.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Dwscdv3.Timers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Dwscdv3.Console.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Dwscdv3.Console.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Bass.Net.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Dwscdv3.Timers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\bin\Release\Dwscdv3.Timers.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\obj\Release\BadApple!!.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\obj\Release\BadApple!!.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\BadApple!!\obj\Release\BadApple!!.pdb

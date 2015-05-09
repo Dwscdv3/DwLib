@@ -1,0 +1,9 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\bin\Release\Test8.exe.config
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\bin\Release\Test8.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\bin\Release\Test8.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\obj\Release\Test8.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\obj\Release\Test8.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\obj\Release\Test8.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\bin\Release\Dwscdv3.MathExpression.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\bin\Release\Dwscdv3.MathExpression.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test8\bin\Release\Dwscdv3.MathExpression.xml

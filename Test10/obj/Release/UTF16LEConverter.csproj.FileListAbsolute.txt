@@ -1,0 +1,2 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test10\obj\Release\Test10.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test10\obj\Release\Test10.pdb

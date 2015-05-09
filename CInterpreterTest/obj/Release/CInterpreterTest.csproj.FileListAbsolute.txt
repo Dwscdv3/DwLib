@@ -1,0 +1,17 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\obj\Release\CInterpreterTest.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\obj\Release\CInterpreterTest.Form1.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\obj\Release\CInterpreterTest.Properties.Resources.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\obj\Release\CInterpreterTest.csproj.GenerateResource.Cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\CInterpreterTest.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\CInterpreterTest.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\obj\Release\CInterpreterTest.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\obj\Release\CInterpreterTest.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\CInterpreterTest.exe.config
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Common.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Parsers.Combinators.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Parsers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Scanners.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Common.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Parsers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Parsers.Combinators.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\CInterpreterTest\bin\Release\VBF.Compilers.Scanners.pdb

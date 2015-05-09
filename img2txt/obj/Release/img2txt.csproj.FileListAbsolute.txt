@@ -1,0 +1,5 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\img2txt\bin\Release\img2txt.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\img2txt\bin\Release\img2txt.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\img2txt\obj\Release\img2txt.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\img2txt\obj\Release\img2txt.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\img2txt\obj\Release\img2txt.pdb

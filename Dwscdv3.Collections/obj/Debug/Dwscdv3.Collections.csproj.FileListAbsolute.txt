@@ -1,0 +1,7 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\bin\Debug\Dwscdv3.Collections.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\bin\Debug\Dwscdv3.Collections.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\obj\Debug\Dwscdv3.Collections.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\obj\Debug\Dwscdv3.Collections.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\obj\Debug\Dwscdv3.Collections.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\bin\Debug\Dwscdv3.Random.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.Collections\bin\Debug\Dwscdv3.Random.pdb

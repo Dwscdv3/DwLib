@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.ExtensionMethod</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.ExtensionMethod.RandomExt.NextLong(System.Random)">
+            <summary>
+            返回非负随机数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.RandomExt.NextLong(System.Random,System.Int64)">
+            <summary>
+            返回一个小于所指定最大值的非负随机数。
+            </summary>
+            <param name="maxValue">要生成的随机数的上界（随机数不能取该上界值）。<paramref name="maxValue"/> 必须大于等于0。</param>
+            <returns></returns>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.RandomExt.NextLong(System.Random,System.Int64,System.Int64)">
+            <summary>
+            返回一个指定范围内的随机数。
+            </summary>
+            <param name="minValue">返回的随机数的下界（随机数可取该下界值）。</param>
+            <param name="maxValue">返回的随机数的上界（随机数不能取该上界值）。<paramref name="maxValue"/> 必须大于等于 <paramref name="minValue"/>。</param>
+            <returns></returns>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Boolean[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.SByte[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Int16[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.UInt16[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.UInt32[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Int64[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.UInt64[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Single[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Double[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Decimal[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Swap(System.Object[],System.Int32,System.Int32)">
+            <summary>
+            交换数组中两个索引的位置。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Boolean[],System.Boolean,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.SByte[],System.SByte,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Byte[],System.Byte,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Int16[],System.Int16,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+            
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.UInt16[],System.UInt16,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+            
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Int32[],System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+            
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.UInt32[],System.UInt32,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+            
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Int64[],System.Int64,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.UInt64[],System.UInt64,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Single[],System.Single,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Double[],System.Double,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Decimal[],System.Decimal,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+        <member name="M:Dwscdv3.ExtensionMethod.ArrayExt.Insert(System.Object[],System.Object,System.Int32,System.Boolean)">
+            <summary>
+            在指定索引处插入新项。插入位置以后的项向后移动 1 个索引。
+            </summary>
+            <param name="value">指定插入项的值。</param>
+            <param name="insertIndex">指定要插入的索引位置。</param>
+            <param name="resize">指定是否应扩大数组容量。如果不扩大，数组的最后一个元素将丢失。</param>
+        </member>
+    </members>
+</doc>

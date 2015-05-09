@@ -1,0 +1,14 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\bin\Release\WPFTest1.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\bin\Release\WPFTest1.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\bin\Release\Dwscdv3.WPF.UserControls.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\bin\Release\Dwscdv3.WPF.UserControls.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\MainWindow.baml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\MainWindow.g.cs
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\App.g.cs
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1_MarkupCompile.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1.g.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1.Properties.Resources.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1.csproj.GenerateResource.Cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WPFTest1\obj\Release\WPFTest1.pdb

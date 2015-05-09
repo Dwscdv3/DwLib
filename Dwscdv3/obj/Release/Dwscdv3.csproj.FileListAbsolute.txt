@@ -1,0 +1,8 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3\bin\Release\Dwscdv3.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3\bin\Release\Dwscdv3.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3\obj\Release\Dwscdv3.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3\obj\Release\Dwscdv3.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3\obj\Release\Dwscdv3.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.XML
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\bin\Dwscdv3.pdb

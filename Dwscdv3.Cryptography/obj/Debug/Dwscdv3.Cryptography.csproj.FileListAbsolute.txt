@@ -1,0 +1,5 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DwCode\bin\Debug\Dwscdv3.Cryptography.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DwCode\bin\Debug\Dwscdv3.Cryptography.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DwCode\obj\Debug\Dwscdv3.Cryptography.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DwCode\obj\Debug\Dwscdv3.Cryptography.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.DwCode\obj\Debug\Dwscdv3.Cryptography.pdb

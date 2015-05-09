@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Timers</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.Timers.WinMMTimer.#ctor">
+            <summary>
+            以默认值初始化 WinMMTimer 类新实例。Resolution 为最低可能值，Interval 为 Resolution * 100，AutoReset 为 false。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.Timers.WinMMTimer.#ctor(System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            以指定的值初始化 WinMMTimer 类新实例。
+            </summary>
+            <param name="interval">指定计时器的频率。</param>
+            <param name="resolution">指定计时器的解析度。</param>
+            <param name="autoReset">指定计时器是否仅运行一次。</param>
+        </member>
+        <member name="P:Dwscdv3.Timers.WinMMTimer.Interval">
+            <summary>
+            指定计时器的频率。为确保及时准确建议设置为 解析度(Resolution) 的10倍以上。
+            </summary>
+        </member>
+        <member name="P:Dwscdv3.Timers.WinMMTimer.Resolution">
+            <summary>
+            指定计时器的解析度。值越小，精度越高，但也将消耗更多的资源。
+            </summary>
+        </member>
+        <member name="P:Dwscdv3.Timers.WinMMTimer.AutoReset">
+            <summary>
+            指定计时器是否仅运行一次。
+            </summary>
+        </member>
+    </members>
+</doc>

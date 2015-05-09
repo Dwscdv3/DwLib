@@ -1,0 +1,13 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\WinFormTest1.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\WinFormTest1.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\Dwscdv3.Timers.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\Dwscdv3.Timers.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\obj\Release\WinFormTest1.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\obj\Release\WinFormTest1.Form1.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\obj\Release\WinFormTest1.Properties.Resources.resources
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\obj\Release\WinFormTest1.csproj.GenerateResource.Cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\obj\Release\WinFormTest1.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\obj\Release\WinFormTest1.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\Dwscdv3.Timers.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\WinFormTest1.exe.CodeAnalysisLog.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\WinFormTest1\bin\Release\WinFormTest1.exe.lastcodeanalysissucceeded

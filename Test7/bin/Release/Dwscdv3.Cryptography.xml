@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.Cryptography</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.Cryptography.DwCode.GetBitmap(System.Byte[],System.Int32)">
+            <summary>
+            警告：调用此方法后实参容量将被扩容为 width * 3 的倍数。
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dwscdv3.DataType</name>
+    </assembly>
+    <members>
+        <member name="M:Dwscdv3.DataType.ByteBits.#ctor(System.Boolean)">
+            <summary>
+            用指定的 Boolean 值初始化所有变量。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.DataType.ByteBits.#ctor(System.Byte)">
+            <summary>
+            用指定的 Byte 值初始化变量。例如，0x0d = 0b00001101，即第5, 6, 8个 Boolean 变量为 true。
+            </summary>
+            <param name="b"></param>
+        </member>
+        <member name="M:Dwscdv3.DataType.ByteBits.#ctor(System.Boolean[])">
+            <summary>
+            用指定的 Boolean 数组给每个变量分别赋值。
+            </summary>
+            <param name="b"></param>
+        </member>
+        <member name="M:Dwscdv3.DataType.ByteBits.ToString">
+            <summary>
+            返回所有8个 Boolean 的值，分隔符为空格。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Dwscdv3.DataType.ByteBits.ToBoolArray">
+            <summary>
+            返回一个包含所有8个 Boolean 的值的数组。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Dwscdv3.DataType.ByteBits.Item(System.Byte)">
+            <summary>
+            
+            </summary>
+            <param name="index">Byte 类型，范围0-7。</param>
+            <returns></returns>
+        </member>
+        <member name="T:Dwscdv3.DataType.Fraction">
+            <summary>
+            表示分数。分子和分母为64位带符号整数。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.DataType.Fraction.#ctor(System.Int64,System.Int64,System.Boolean)">
+            <summary>
+            以指定的参数初始化新实例。
+            </summary>
+            <param name="numerator">分子</param>
+            <param name="denominator">分母</param>
+            <param name="autoReduction">自动约分</param>
+        </member>
+        <member name="M:Dwscdv3.DataType.Fraction.Reduce">
+            <summary>
+            对此分数进行约分。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.DataType.Fraction.Pow(Dwscdv3.DataType.Fraction,System.Int32)">
+            <summary>
+            返回指定分数的指定次幂。
+            </summary>
+            <param name="f">要乘幂的分数。</param>
+            <param name="i">指定幂的整数。</param>
+        </member>
+        <member name="M:Dwscdv3.DataType.Fraction.ToArray">
+            <summary>
+            返回表示此分数的数组。索引0为分子，索引1为分母。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.DataType.Fraction.ToString">
+            <summary>
+            返回分数的常规表示形式。
+            </summary>
+        </member>
+        <member name="M:Dwscdv3.DataType.Fraction.ToDecimalString(System.Boolean)">
+            <summary>
+            返回分数用小数表示的形式。
+            </summary>
+            <param name="highPrecision">
+            <para>false: 使用 double 类型计算以提高性能</para>
+            <para>true: 使用 decimal 类型计算以提高精确度。</para>
+            </param>
+        </member>
+        <member name="P:Dwscdv3.DataType.Fraction.Numerator">
+            <summary>
+            获取或设置分子。
+            </summary>
+        </member>
+        <member name="P:Dwscdv3.DataType.Fraction.Denominator">
+            <summary>
+            获取或设置分母。
+            </summary>
+        </member>
+        <member name="P:Dwscdv3.DataType.Fraction.AutoReduction">
+            <summary>
+            获取或设置是否应自动约分。
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.ExtensionMethod\bin\Debug\Dwscdv3.ExtensionMethod.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.ExtensionMethod\bin\Debug\Dwscdv3.ExtensionMethod.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.ExtensionMethod\obj\Debug\Dwscdv3.ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.ExtensionMethod\obj\Debug\Dwscdv3.ExtensionMethod.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Dwscdv3.ExtensionMethod\obj\Debug\Dwscdv3.ExtensionMethod.pdb

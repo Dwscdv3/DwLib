@@ -1,0 +1,8 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\bin\Release\Test.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\bin\Release\Test.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\bin\Release\Dwscdv3.Random.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\bin\Release\Dwscdv3.Random.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\obj\Release\Test.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\obj\Release\Test.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\Test\bin\Release\Dwscdv3.Random.xml

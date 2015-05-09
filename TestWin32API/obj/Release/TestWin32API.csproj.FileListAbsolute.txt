@@ -1,0 +1,9 @@
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\bin\Release\TestWin32API.exe.config
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\bin\Release\TestWin32API.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\bin\Release\TestWin32API.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\bin\Release\Dwscdv3.Win32API.dll
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\bin\Release\Dwscdv3.Win32API.pdb
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\bin\Release\Dwscdv3.Win32API.xml
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\obj\Release\TestWin32API.csprojResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\obj\Release\TestWin32API.exe
+D:\Users\pc\Documents\Visual Studio 2012\Projects\DwLib\TestWin32API\obj\Release\TestWin32API.pdb
